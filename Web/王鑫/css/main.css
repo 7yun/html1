@@ -1,0 +1,23 @@
+.logo{
+    /* 图片变圆 */
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    /* 居中 */
+    margin: auto;
+}
+.sign{
+    /* 签名居中 */
+   text-align: center;
+}
+.list-nav{
+    
+        text-decoration: none;  /*去掉前面的圆点*/
+        list-style: none;
+        float: left;
+        border: 1px solid #FFFFFF;
+        background-color: #30DDEB;
+    
+
+}
